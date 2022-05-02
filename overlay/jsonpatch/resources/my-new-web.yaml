@@ -1,0 +1,2 @@
+- path: /spec/volumes/0/emptyDir/sizeLimit
+  op: remove
